@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555942519 source:c:\users\cleds\desktop\campo_minado2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

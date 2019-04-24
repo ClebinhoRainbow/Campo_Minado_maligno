@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="campo_minado2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/campo_minado2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/campo_minado2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="5.png" />
+		<Unit filename="6.png" />
+		<Unit filename="8.png" />
+		<Unit filename="Good_Starts.ogg" />
+		<Unit filename="applauseClappingSound.ogg" />
+		<Unit filename="bomb_icon.jpg" />
+		<Unit filename="bomb_icon2.jpg" />
+		<Unit filename="caixa-de-selecao-vazia-quadrado-arredondado_318-41751.png.jpeg" />
+		<Unit filename="clap.png" />
+		<Unit filename="explosion.ogg" />
+		<Unit filename="flag2.jpg" />
+		<Unit filename="flag3.jpg" />
+		<Unit filename="game0ver.png" />
+		<Unit filename="game0ver2.png" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parabens.png" />
+		<Unit filename="parabens2.png" />
+		<Unit filename="q.jpg" />
+		<Unit filename="q2.jpg" />
+		<Unit filename="qu1.png" />
+		<Unit filename="qu2.png" />
+		<Unit filename="quadrado-branco.jpg" />
+		<Unit filename="quadrado-branco2.jpg" />
+		<Unit filename="quadrado2.png" />
+		<Unit filename="quadrado3.png" />
+		<Unit filename="rsz_1menu.png" />
+		<Unit filename="rsz_game0ver2.png" />
+		<Unit filename="rsz_menu.png" />
+		<Unit filename="rsz_parabens.png" />
+		<Unit filename="rsz_parabens2.png" />
+		<Unit filename="telates2.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
